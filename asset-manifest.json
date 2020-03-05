@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/crio-pdp-2019-hussainbadri21/static/css/main.8ca1969d.chunk.css",
-    "main.js": "/crio-pdp-2019-hussainbadri21/static/js/main.16602702.chunk.js",
-    "main.js.map": "/crio-pdp-2019-hussainbadri21/static/js/main.16602702.chunk.js.map",
+    "main.js": "/crio-pdp-2019-hussainbadri21/static/js/main.eb22d2de.chunk.js",
+    "main.js.map": "/crio-pdp-2019-hussainbadri21/static/js/main.eb22d2de.chunk.js.map",
     "runtime-main.js": "/crio-pdp-2019-hussainbadri21/static/js/runtime-main.8fda9468.js",
     "runtime-main.js.map": "/crio-pdp-2019-hussainbadri21/static/js/runtime-main.8fda9468.js.map",
     "static/css/2.b3ff1c62.chunk.css": "/crio-pdp-2019-hussainbadri21/static/css/2.b3ff1c62.chunk.css",
-    "static/js/2.d038e497.chunk.js": "/crio-pdp-2019-hussainbadri21/static/js/2.d038e497.chunk.js",
-    "static/js/2.d038e497.chunk.js.map": "/crio-pdp-2019-hussainbadri21/static/js/2.d038e497.chunk.js.map",
+    "static/js/2.52da478a.chunk.js": "/crio-pdp-2019-hussainbadri21/static/js/2.52da478a.chunk.js",
+    "static/js/2.52da478a.chunk.js.map": "/crio-pdp-2019-hussainbadri21/static/js/2.52da478a.chunk.js.map",
     "index.html": "/crio-pdp-2019-hussainbadri21/index.html",
-    "precache-manifest.dec9bbf043575ad66dc1c943c250435e.js": "/crio-pdp-2019-hussainbadri21/precache-manifest.dec9bbf043575ad66dc1c943c250435e.js",
+    "precache-manifest.1e022fe1d0863b23a239e828e380f3b9.js": "/crio-pdp-2019-hussainbadri21/precache-manifest.1e022fe1d0863b23a239e828e380f3b9.js",
     "service-worker.js": "/crio-pdp-2019-hussainbadri21/service-worker.js",
     "static/css/2.b3ff1c62.chunk.css.map": "/crio-pdp-2019-hussainbadri21/static/css/2.b3ff1c62.chunk.css.map",
     "static/css/main.8ca1969d.chunk.css.map": "/crio-pdp-2019-hussainbadri21/static/css/main.8ca1969d.chunk.css.map",
-    "static/js/2.d038e497.chunk.js.LICENSE.txt": "/crio-pdp-2019-hussainbadri21/static/js/2.d038e497.chunk.js.LICENSE.txt",
+    "static/js/2.52da478a.chunk.js.LICENSE.txt": "/crio-pdp-2019-hussainbadri21/static/js/2.52da478a.chunk.js.LICENSE.txt",
     "static/media/crio-logo-white.svg": "/crio-pdp-2019-hussainbadri21/static/media/crio-logo-white.c9536e04.svg",
     "static/media/crio-logo.svg": "/crio-pdp-2019-hussainbadri21/static/media/crio-logo.63be71d0.svg",
     "static/media/mil3biryani.png": "/crio-pdp-2019-hussainbadri21/static/media/mil3biryani.847a89e4.png",
@@ -32,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.8fda9468.js",
     "static/css/2.b3ff1c62.chunk.css",
-    "static/js/2.d038e497.chunk.js",
+    "static/js/2.52da478a.chunk.js",
     "static/css/main.8ca1969d.chunk.css",
-    "static/js/main.16602702.chunk.js"
+    "static/js/main.eb22d2de.chunk.js"
   ]
 }
